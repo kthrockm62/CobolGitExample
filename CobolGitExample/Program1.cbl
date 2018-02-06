@@ -15,5 +15,6 @@
        
        1000-mainline.
             display 'example'.  
-            display 'hello'.  
+            display 'hello'.
+            display 'hello again'.  
        end program Program1.
