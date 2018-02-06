@@ -9,6 +9,11 @@
 
        procedure division.
 
+
+           perform 1000-mainline.
            goback.
-           
+       
+       1000-mainline.
+            display 'example'.  
+            display 'hello'.  
        end program Program1.
